@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/11 - Container With Most Water" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/121 - Best Time to Buy and Sell Stock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/136 - Single Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1385 - Find the Distance Value Between Two Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/153 - Find Minimum in Rotated Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/169 - Majority Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1752 -  Check if Array Is Sorted and Rotated" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1838 - Frequency of the Most Frequent Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/189. Rotate Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/240 - Search a 2D Matrix II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26 -  Remove Duplicates from Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/287 - Find the Duplicate Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2965 -  Find Missing and Repeated Values" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Longest Substring Without Repeating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/33 - Search in Rotated Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/34 -  Find First and Last Position of Element in Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/374 - Guess Number Higher or Lower" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/50 - Pow(x, n)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/53 - Maximum Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/54  - Spiral Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/540 - Single Element in a Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/560 - Subarray Sum Equals K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/73 - Set Matrix Zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/74 - Search a 2D Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/75 - Sort Colors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/79 -  Word Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/81 - Search in Rotated Sorted Array II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/88 -  Merge Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GFG - Find Kth Rotation" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
